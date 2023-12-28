@@ -4,4 +4,4 @@ Learning Github / git version control
 
 ## Subheader
 
-Tutorial on Youtube
+Tutorial based on Youtube
